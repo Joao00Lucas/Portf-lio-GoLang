@@ -4,6 +4,6 @@ document.getElementById("entrarBtn").addEventListener("click", () => {
   tela.classList.add("opacity-0");
 
   setTimeout(() => {
-    window.location.href = "../telas/aulas.html";
+    window.location.href = "telas/aulas.html";
   }, 500);
 });
